@@ -9,6 +9,9 @@ Create the service principal
     az ad sp create-for-rbac --name private-aks-cluster-sp
     #=> Copy it (.... .....)
 
+steps and params
+
+    1. update the config.tfvars params 
 Resources
 ---------- 
     1. vnet with two subnets
