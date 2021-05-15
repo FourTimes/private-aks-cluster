@@ -14,8 +14,8 @@ go to azure cli
 
 Resources
 ---------- 
-    1. vnet with single subnet
-    2. aks cluster private cluster 
+    1. vnet with two subnets
+    2. aks private cluster 
 ---------- 
 
 Commands
