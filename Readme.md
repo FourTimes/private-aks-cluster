@@ -3,14 +3,11 @@ Create the private aks cluster
     1. terraform 
     2. azure service principals
 ---------- 
+Create the service principal
 
-create the service principal
-
-go to azure cli
-
+    #=> ... Go to azure cli
     az ad sp create-for-rbac --name private-aks-cluster-sp
-    
-    copy it (.... .....)
+    #=> Copy it (.... .....)
 
 Resources
 ---------- 
